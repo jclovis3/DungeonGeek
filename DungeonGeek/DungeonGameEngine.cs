@@ -16,7 +16,6 @@ namespace DungeonGeek
     {
 
         // Planning Notes:
-        // TODO: Test this line in a new branch on GitHub
         // PLANNING: Add MORE monsters - at least a few low level ones with no special tricks to get started.
         // PLANNING: Finish implementing any scroll effects not fully implemented
         // PLANNING: Implement variable zoom by mouse scroll wheel and keyboard
